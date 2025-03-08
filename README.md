@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @j4yc0b
-- 👀 I’m interested in Python, React and financial algos.
-- 🌱 I’m currently learning new things with React.
+- 📊 I work as a Data Engineer consultant, with Azure and Databricks
+- 🌱 But here on my Github, you'll find my work on app development side projects
+- 🧱 I’m currently building stuff with React
