@@ -5,4 +5,4 @@
 
 See my projects:
 
-📷 (https://instafollowstats.com)
+InstaFollowStats.com
