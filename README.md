@@ -2,3 +2,7 @@
 - 📊 I work as a Data Engineer consultant, with Azure and Databricks
 - 🌱 But here on my Github, you'll find my work on app development side projects
 - 🧱 I’m currently building stuff with React
+
+See my projects:
+
+[insta](https://instafollowstats.com)
