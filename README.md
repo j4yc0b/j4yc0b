@@ -5,5 +5,6 @@
 
 See my projects:
 
-InstaFollowStats.com
 [InstaFollowStats](https://instafollowstats.com)
+
+[Portfolio Optimizer](https://portfoliooptimizers.com)
